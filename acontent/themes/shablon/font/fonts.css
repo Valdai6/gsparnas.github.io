@@ -1,0 +1,98 @@
+/* https://onlinefontconverter.com/ */
+
+@font-face {
+  font-family: 'PFBeauSansPro-XThin';
+  src: url('PFBeauSansPro-XThin.eot');
+  src: url('PFBeauSansPro-XThin.woff2') format('woff2'),
+       url('PFBeauSansPro-XThin.woff') format('woff'),
+       url('PFBeauSansPro-XThin.ttf') format('truetype'),
+       url('PFBeauSansPro-XThin.svg') format('svg'),
+       url('PFBeauSansPro-XThin.eot%3F') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PFBeauSansPro-SemiBold';
+  src: url('PFBeauSansPro-SemiBold.eot');
+  src: url('PFBeauSansPro-SemiBold.woff2') format('woff2'),
+       url('PFBeauSansPro-SemiBold.woff') format('woff'),
+       url('PFBeauSansPro-SemiBold.ttf') format('truetype'),
+       url('PFBeauSansPro-SemiBold.svg') format('svg'),
+       url('PFBeauSansPro-SemiBold.eot%3F') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PFBeauSansPro-Black';
+  src: url('PFBeauSansPro-Black.eot');
+  src: url('PFBeauSansPro-Black.woff2') format('woff2'),
+       url('PFBeauSansPro-Black.woff') format('woff'),
+       url('PFBeauSansPro-Black.ttf') format('truetype'),
+       url('PFBeauSansPro-Black.svg') format('svg'),
+       url('PFBeauSansPro-Black.eot%3F') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PFBeauSansPro-Bold';
+  src: url('PFBeauSansPro-Bold.eot');
+  src: url('PFBeauSansPro-Bold.woff2') format('woff2'),
+       url('PFBeauSansPro-Bold.woff') format('woff'),
+       url('PFBeauSansPro-Bold.ttf') format('truetype'),
+       url('PFBeauSansPro-Bold.svg') format('svg'),
+       url('PFBeauSansPro-Bold.eot%3F') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PFBeauSansPro-SemiBold';
+  src: url('PFBeauSansPro-SemiBold.eot');
+  src: url('PFBeauSansPro-SemiBold.woff2') format('woff2'),
+       url('PFBeauSansPro-SemiBold.woff') format('woff'),
+       url('PFBeauSansPro-SemiBold.ttf') format('truetype'),
+       url('PFBeauSansPro-SemiBold.svg') format('svg'),
+       url('PFBeauSansPro-SemiBold.eot%3F') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'PFBeauSansPro-Regular';
+    src: url('PFBeauSansPro-Regular.eot');
+    src: url('PFBeauSansPro-Regular.woff2') format('woff2'),
+    url('PFBeauSansPro-Regular.woff') format('woff'),
+    url('PFBeauSansPro-Regular.ttf') format('truetype'),
+    url('PFBeauSansPro-Regular.svg') format('svg'),
+    url('PFBeauSansPro-Regular.eot%3F') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MyriadPro-Light';
+    src: url('MyriadPro-Light.eot');
+    src: url('MyriadPro-Light.woff2') format('woff2'),
+    url('MyriadPro-Light.woff') format('woff'),
+    url('MyriadPro-Light.ttf') format('truetype'),
+    url('MyriadPro-Light.svg') format('svg'),
+    url('MyriadPro-Light.eot%3F') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'MyriadPro-Regular';
+  src: url('MyriadPro-Regular.eot');
+  src: url('MyriadPro-Regular.woff2') format('woff2'),
+       url('MyriadPro-Regular.woff') format('woff'),
+       url('MyriadPro-Regular.ttf') format('truetype'),
+       url('MyriadPro-Regular.svg') format('svg'),
+       url('MyriadPro-Regular.eot%3F') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

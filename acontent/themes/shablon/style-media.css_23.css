@@ -1,0 +1,456 @@
+@media screen and (min-width: 980px) {
+    .slider {
+        height: 417px;
+    }
+    .slider-abs {
+        width: 2880px;
+        left: 50%;
+        margin-left: -1440px;
+        height: 417px;
+        position: absolute;
+        overflow: hidden;
+    }
+    .slider-panel {
+        display: block;
+    }
+    .logoLine .center, .menuLine .center, .mottoLine .center {
+        width: 960px;
+    }
+    .mottoLine h1, .mottoLine h2 {
+        white-space: nowrap;
+    }
+    .mottoLine h1 {
+        font-size: 66px;
+    }
+    .mottoLine h2 {
+        font-size: 21px;
+        margin-top: -8px;
+    }
+    .mottoLine {
+        /*height: 106px;*/
+    }
+    .menuLine {
+        height: 36px;
+    }
+    #phone a {
+        padding: 27px 0 6px 72px;
+        font-size: 25px;
+    }
+    #phone {
+        background-size: 67px 67px;
+        margin: 6px 0 0 0;
+    }
+    #logo {
+        margin: 13px 0 0 0;
+        clear: both;
+        float: left;
+    }
+    #logo img {
+        width:89px;
+        height:88px;
+    }
+    .logoLine {
+        height: 76px;
+    }
+    #siteName {
+        margin: 50px 0 0 23px;
+        font-size: 16px;
+    }
+    .menuLine a {
+        margin: 9px 0 0 24px;
+        font-size: 16px;
+        float: left;
+    }
+    .menuLine .menu {
+        float: left;
+    }
+    #Search_Input {
+        height: 33px;
+        width: 198px;
+    }
+    #Search_Btn {
+        width: 33px;
+        height: 33px;
+    }
+    .footer .center {
+        width: 960px;
+        padding-top: 30px;
+    }
+    .center-menu .download-documents {
+        width: 960px;
+    }
+    .partners .center {
+        white-space: nowrap;
+        display: inline;
+    }
+    .our-clients {
+        padding: 14px 0 20px 0;
+    }
+    .our-clients img {
+        width: 200px;
+        height: auto;
+    }
+    .partners img {
+        width: 132px;
+        height: auto;
+    }
+    .our-clients h2, .contacts h2 {
+        font-size: 38px;
+    }
+    .our-clients h2 {
+        margin: 0 auto 27px auto;
+    }
+    .our-clients a {
+        margin: 0 20px 0 20px;
+    }
+    .contacts {
+        padding: 14px 0 0 0;
+    }
+    .content .center {
+        width: 783px;
+        min-height: 500px;
+        padding: 30px 0 30px 0;
+    }
+    .content .center, .content .center a {
+        font-size: 17px;
+    }
+    .content .center h2 {
+        font-size: 33px;
+    }
+    .testimonials {
+        height: 40px;
+    }
+    .center-menu .download-documents {
+        font-size: 20px;
+    }
+    .footer {
+        height: 85px;
+    }
+    .footer .social {
+        margin-top: -10px;
+    }
+    .map {
+        height: 405px;
+    }
+    .footer .footer-menu a {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
+@media screen and (max-width: 979px) {
+	.bgmenu-bg img {
+		width:100% !important;
+		height:auto !important;;
+	}
+	.bgmenu-bg-txt {
+		padding-left:2vw !important;
+		padding-top:1vw !important;
+		font-size:2.4vw !important;
+	}
+    .slider {
+        height: auto;
+    }
+    .slider-abs {
+        width: auto;
+        left: auto;
+        margin-left: auto;
+        height: auto;
+        position: relative;
+    }
+    .slider-panel {
+        display: none;
+    }
+    .logoLine .center, .menuLine .center, .mottoLine .center {
+        width: 100%;
+    }
+    .mottoLine h1, .mottoLine h2 {
+        white-space: normal;
+    }
+    .mottoLine h1 {
+        font-size: 50px;
+    }
+    .mottoLine h2 {
+        font-size: 18px;
+        margin-top: -6px;
+    }
+    .mottoLine {
+        height: auto;
+    }
+    .menuLine {
+        height: 32px;
+    }
+    #phone a {
+        padding: 17px 0 3px 50px;
+        font-size: 22px;
+    }
+    #phone {
+        background-size: 50px 50px;
+        margin: 8px 0 0 0;
+    }
+    #logo {
+        margin: 13px 0 0 0;
+        clear: both;
+        float: left;
+    }
+    #logo img {
+        margin-left: 5px;
+        width:70px;
+        height:70px;
+    }
+    .logoLine {
+        height: 62px;
+    }
+    #siteName {
+        margin: 40px 0 0 16px;
+        font-size: 15px;
+    }
+    .menuLine a {
+        margin: 7px 0 0 16px;
+        font-size: 15px;
+        float: left;
+    }
+    .menuLine .menu {
+        float: left;
+    }
+    #Search_Input {
+        height: 30px;
+        width: 170px;
+    }
+    #Search_Btn {
+        width: 29px;
+        height: 29px;
+    }
+    .footer .center {
+        width: 100%;
+        padding-top: 25px;
+    }
+    .center-menu .download-documents {
+        width: 100%;
+    }
+    .partners .center {
+        white-space: normal;
+        display: inline;
+    }
+    .our-clients {
+        padding: 11px 0 17px 0;
+    }
+    .our-clients img {
+        width: 160px;
+        height: auto;
+    }
+    .contacts {
+        padding: 11px 0 0 0;
+    }
+    .partners img {
+        width: 120px;
+        height: auto;
+    }
+    .our-clients h2, .contacts h2 {
+        font-size: 32px;
+    }
+    .our-clients h2 {
+        margin: 0 auto 21px auto;
+    }
+    .our-clients a {
+        margin: 0 16px 0 16px;
+    }
+    .content .center {
+        width: 90%;
+        min-height: 300px;
+        padding: 25px 0 25px 0;
+    }
+    .content .center, .content .center a {
+        font-size: 15px;
+    }
+    .content .center h2 {
+        font-size: 25px;
+    }
+    .testimonials {
+        height: 34px;
+    }
+    .center-menu .download-documents {
+        font-size: 17px;
+    }
+    .center-menu img {
+        width: 31px;
+        height: 31px;
+    }
+    .footer .copy {
+        margin-left: 5px;
+        font-size: 13px;
+    }
+    .footer .social {
+        margin-right: 5px;
+        margin-top: -10px;
+    }
+    .footer {
+        height: 70px;
+    }
+    .map {
+        height: 305px;
+    }
+    .footer .footer-menu a {
+        font-size: 15px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+	.content img {
+		max-width: 100%;
+		height:auto;
+	}
+}
+@media screen and (max-width: 640px) {
+    body {
+        min-width: 290px;
+    }
+    .logoLine {
+        height: auto;
+        overflow:hidden;
+    }
+    #logo {
+        margin: 5px 0 0 0;
+    }
+    #siteName {
+        margin: 25px 0 0 5px;
+        font-size: 12px;
+    }
+    #phone {
+        margin: -7px 0 5px 5px;
+        clear: both;
+        background-size: 25px 25px;
+    }
+    #phone a {
+        padding: 2px 5px 2px 27px;
+        font-size: 18px;
+    }
+    #logo img {
+        width:52px;
+        height:52px;
+    }
+    .menuLine {
+        overflow: hidden;
+        text-align: center;
+    }
+    .menuLine a {
+        display: inline;
+        margin-left: 8px;
+        margin-right: 8px;
+    }
+    .menuLine .menu {
+        margin: 0 auto 0 auto;
+        float: none;
+        overflow: hidden;
+        display: inline-block;
+    }
+    .mottoLine h1 {
+        font-size: 35px;
+    }
+    .mottoLine h2 {
+        font-size: 14px;
+        margin-top: 0px;
+        padding-top: 2px;
+    }
+    #Search_Input, #Search_Btn {
+        display: none;
+    }
+    .partners img {
+        width: 19%;
+        height: auto;
+    }
+    .mottoLine h1 {
+        font-size: 30px;
+    }
+    .mottoLine h2 {
+        font-size: 13px;
+        margin-top: -3px;
+    }
+    .center-menu .download-documents {
+        font-size: 15px;
+    }
+    .center-menu img {
+        width: 23px;
+        height: 23px;
+    }
+    .our-clients {
+        padding: 7px 0 12px 0;
+    }
+    .our-clients h2, .contacts h2 {
+        font-size: 23px;
+    }
+    .our-clients h2 {
+        margin: 0 auto 8px auto;
+    }
+    .our-clients img {
+        width: 25%;
+        height: auto;
+    }
+    .contacts {
+        padding: 7px 0 0 0;
+    }
+    .testimonials {
+        height: 22px;
+    }
+    .map {
+        height: 255px;
+    }
+    .content .center {
+        width: 97%;
+        min-height: 250px;
+        padding: 10px 0 10px 0;
+    }
+    .content .center, .content .center a {
+        font-size: 13px;
+    }
+    .content .center h2 {
+        font-size: 18px;
+        margin-bottom: 9px;
+        text-align: center;
+    }
+    .footer {
+        height: auto;
+        overflow: hidden;
+    }
+    .footer .copy {
+        margin-left: 5px;
+        font-size: 13px;
+        line-height: 19px;
+    }
+	.footer .center {
+		
+	}
+    .footer .social img {
+        height: 28px;
+        width: 28px;
+    }
+    .footer .social {
+		float:none !important;
+        clear:both !important;
+		/* text-align:center; */
+		padding-top: 5px;
+		margin-top:4px;
+    }
+	.footer .footer-menu {
+		display:inline;
+		float:none !important;
+        clear:both !important;
+	}
+    .footer .footer-menu a {
+        line-height: 19px;
+        font-size: 13px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .footer .center {
+        padding-top: 18px;
+		text-align:center;
+    }
+    .footer .copy {
+        margin-right: 10px !important;
+        font-size: 13px;
+		display:inline;
+		float:none !important;
+        clear:both !important;
+    }
+}
